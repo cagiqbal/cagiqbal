@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
-      typeSpeed: 100,
+      strings: ["Muhamad iqbal", "Junior UI/UX Design", "Designer Graphic ",  "Photographer"],
+      typeSpeed: 90,
       loop: true,
     });
   });
