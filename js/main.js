@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Muhamad iqbal", "Junior UI/UX Design", "Designer Graphic ",  "Photographer"],
+      strings: ["Muhamad iqbal", "Junior UI/UX Design", "Designer Graphic "],
       typeSpeed: 90,
       loop: true,
     });
